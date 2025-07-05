@@ -41,3 +41,33 @@ Follow these steps to run Collaboratales on your local machine.
 - Node.js and npm installed
 - MongoDB installed and running
 
+### Usage
+Sign Up / Log In to access your account.
+
+Write a Story using the built-in editor and publish it.
+
+Explore Stories contributed by other users.
+
+React and Comment to engage with stories and fellow users.
+
+### Contributing
+We welcome contributions from developers, writers, and storytellers alike. To contribute:
+
+Fork the repository
+
+Create a new branch
+
+Make your changes
+
+Submit a pull request
+
+### License
+This project is licensed under the MIT License.
+
+### Acknowledgments
+Thanks to the MEAN stack community for tools, guides, and documentation.
+
+Special thanks to all contributors for helping make Collaboratales a reality.
+
+
+
